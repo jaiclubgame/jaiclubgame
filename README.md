@@ -1,6 +1,6 @@
 <div align="center">
 
-![Jai Club Game Logo](https://raw.githubusercontent.com/jaiclubgame/jai-club-game-guide/main/withoutbglogo.png)
+![Jai Club Game Logo](https://raw.githubusercontent.com/jaiclubgame/jaiclubgame/main/withoutbglogo.png)
 
 # 🎮 Jai Club Game — Official Platform Guide
 
